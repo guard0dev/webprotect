@@ -1,8 +1,8 @@
 webprotect
 ==========
 
-webprotect
+Web Protect
 
-Web Protector is a tool for your Website, to protect the Website from Damage by an Attack.
+Web Protect is a tool for your Website, to protect the Website from Damage by an Hacker-Attack.
  
 At the moment the Tool is in Development.
